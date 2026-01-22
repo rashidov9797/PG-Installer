@@ -1,5 +1,5 @@
 
-# PostgreSQL Installer for Rocky Linux 8
+# PostgreSQL Installer for Rocky Linux 8 - PG 16V -> 18
 
 An automated Python script to install and configure **PostgreSQL (Versions 13-18)** on Rocky Linux 8.
 
